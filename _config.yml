@@ -1,0 +1,56 @@
+# Set theme
+remote_theme: daviddarnes/alembic@main
+
+# File excludes
+exclude:
+- README.md
+- Gemfile
+- Gemfile.lock
+
+# Set plugins
+plugins:
+- jekyll-sitemap
+- jekyll-mentions
+- jekyll-seo-tag
+- jekyll-redirect-from
+- jekyll-feed
+- jekyll-commonmark
+- jekyll-include-cache
+- jemoji
+- jekyll-remote-theme
+
+# Site settings
+url: 'https://runi-nlp-lab.github.io' # Placeholder, can be updated later
+baseurl: ''
+title: 'RUNI NLP Lab'
+description: 'Led by Dr. Kfir Bar'
+permalink: pretty
+logo: "/assets/logo.png" # Retaining logo for now, likely needs update
+
+# Pagination
+# Blog pagination removed
+
+# Header nav
+navigation_header:
+- title: Home
+  url: /
+- title: Team
+  url: /team/
+- title: Publications
+  url: /publications/
+- title: Contact
+  url: /contact/
+
+# Footer nav
+navigation_footer:
+- title: Back to top
+  url: "#top"
+
+# Collection settings
+defaults:
+  -
+    scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: page # Set the default layout for pages
