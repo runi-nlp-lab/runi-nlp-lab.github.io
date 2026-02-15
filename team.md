@@ -25,9 +25,40 @@ permalink: /team/
   <!-- Member 1 -->
   <div class="member-card">
     <img src="/assets/kai.jpg" alt="Kai Golan Hashiloni" style="width: 100%; aspect-ratio: 1/1; object-fit: cover; border-radius: 8px;">
-    <h4>Kai Golan Hashiloni</h4>
+    <h4><a href="https://golankai.github.io/">Kai Golan Hashiloni</a></h4>
     <p>PhD Student</p>
-    <a href="https://golankai.github.io/">Website</a>
+  </div>
+
+  <!-- Member 2 -->
+  <div class="member-card">
+    <div style="width: 100%; aspect-ratio: 1/1; background: #eee; border-radius: 8px; display: flex; align-items: center; justify-content: center;">Add Photo</div>
+    <h4>Ofri Hefetz</h4>
+    <p>PhD Student</p>
+  </div>
+
+  <!-- Member 3 -->
+  <div class="member-card">
+    <div style="width: 100%; aspect-ratio: 1/1; background: #eee; border-radius: 8px; display: flex; align-items: center; justify-content: center;">Add Photo</div>
+    <h4>Daniel Fadlon</h4>
+    <p>PhD Student</p>
+  </div>
+
+</div>
+
+<div class="members-grid" style="display: grid; grid-template-columns: repeat(auto-fill, minmax(200px, 1fr)); gap: 20px;">
+
+  <!-- Member 1 -->
+  <div class="member-card">
+    <div style="width: 100%; aspect-ratio: 1/1; background: #eee; border-radius: 8px; display: flex; align-items: center; justify-content: center;">Add Photo</div>
+    <h4>Member Name</h4>
+    <p>Role</p>
+  </div>
+
+  <!-- Member Placeholder -->
+  <div class="member-card">
+    <div style="width: 100%; aspect-ratio: 1/1; background: #eee; border-radius: 8px; display: flex; align-items: center; justify-content: center;">Add Photo</div>
+    <h4>Member Name</h4>
+    <p>Role</p>
   </div>
 
   <!-- Member Placeholder -->
@@ -39,10 +70,12 @@ permalink: /team/
 
 </div>
 
+
 <hr>
 
 ## Former Members
 
 <ul>
-  <li><strong>Alumni Name</strong> - Now at [Company/University]</li>
+  <li><a href="#">Adiel Meir</a> - Now at [Company/University]</li>
+  <li><a href="#">Omri Homburger</a> - Now at [Company/University]</li>
 </ul>

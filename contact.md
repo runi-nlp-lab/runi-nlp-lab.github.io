@@ -19,11 +19,7 @@ You can reach us at:
     Email Kai Golan Hashiloni
   </a>
 
-  <div style="font-size: 1.1em;">
-    <strong>RUNI NLP Lab</strong><br>
-    Reichman University<br>
-    Herzliya, Israel
-  </div>
+
 
 </div>
 
