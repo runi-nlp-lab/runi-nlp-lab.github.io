@@ -30,5 +30,42 @@ permalink: /publications/
         <li style="margin:0 0 0.4em 0; line-height:1.4;">
             Kai Golan Hashiloni, Brenda Kasabe Nokai, Michal Shevach, Esthy Shemesh, Ronit Bartin, Anna Bergrin, Liran Harel, Nachum Dershowitz, Liat Nadai Arad, Kfir Bar. <a href="https://arxiv.org/html/2512.11502v1">Building Patient Journeys in Hebrew: A Language Model for Clinical Timeline Extraction</a>. In Proceedings of the Workshop on Large Language Models and Generative AI for Health Informatics 2025, IJCAI 2025, Montreal, Canada.
         </li>
+
+        <li style="margin:0 0 0.4em 0; line-height:1.4;">
+            Stav Yosef, Moreah Zisquit, Ben Cohen, Anat Brunstein Klomek, Kfir Bar, and Doron Friedman.
+            <a href="https://doi.org/10.1038/s44184-025-00159-1">The impact of fine-tuning LLMs on the quality of automated therapy assessed by digital patients</a>.
+            npj Mental Health Research, 4, 43 (2025).
+        </li>
+
+        <li style="margin:0 0 0.4em 0; line-height:1.4;">
+            Omri Homburger and Kfir Bar. 2025.
+            <a href="https://aclanthology.org/2025.ijcnlp-long.117/">Large Temporal Models: Unlocking Temporal Understanding in LLMs for Temporal Relation Classification</a>.
+            In Proceedings of the 14th International Joint Conference on Natural Language Processing and the 4th Conference of the Asia-Pacific Chapter of the Association for Computational Linguistics, pages 2156–2171, Mumbai, India. The Asian Federation of Natural Language Processing and The Association for Computational Linguistics.
+        </li>
+
+        <li style="margin:0 0 0.4em 0; line-height:1.4;">
+            Daniel Fadlon, David Dov, Aviya Bennett, Daphna Heller-Miron, Gad Levy, Kfir Bar, and Ahuva Weiss-Meilik.
+            <a href="https://aclanthology.org/2025.ijcnlp-long.103/">Decode Like a Clinician: Enhancing LLM Fine-Tuning with Temporal Structured Data Representation</a>.
+            In Proceedings of the 14th International Joint Conference on Natural Language Processing and the 4th Conference of the Asia-Pacific Chapter of the Association for Computational Linguistics, pages 1906–1922, Mumbai, India. The Asian Federation of Natural Language Processing and The Association for Computational Linguistics.
+        </li>
+
+        <li style="margin:0 0 0.4em 0; line-height:1.4;">
+            Neo Eyal, Nachum Dershowitz, and Kfir Bar.
+            <a href="https://aclanthology.org/2025.findings-emnlp.967/">Layer Duplication in LLMs</a>.
+            In Findings of the Association for Computational Linguistics: EMNLP 2025, pages 17797–17807, Suzhou, China. Association for Computational Linguistics.
+        </li>
+
+        <li style="margin:0 0 0.4em 0; line-height:1.4;">
+            Ayah Zirikly, Andrew Yates, Bart Desmet, Molly Ireland, Steven Bedrick, Sean MacAvaney, Kfir Bar, and Yaakov Ophir (Editors).
+            <a href="https://aclanthology.org/volumes/2025.clpsych-1/">Proceedings of the 10th Workshop on Computational Linguistics and Clinical Psychology (CLPsych 2025)</a>.
+            Association for Computational Linguistics.
+        </li>
+
+        <li style="margin:0 0 0.4em 0; line-height:1.4;">
+            Adiel Meir and Kfir Bar.
+            <a href="https://aclanthology.org/2025.inlg-main.41/">Can LLMs Help Encoder Models Maintain Both High Accuracy and Consistency in Temporal Relation Classification?</a>.
+            In Proceedings of the 18th International Natural Language Generation Conference, pages 716–733, Hanoi, Vietnam. Association for Computational Linguistics.
+        </li>
+
     </ul>
 </div>
