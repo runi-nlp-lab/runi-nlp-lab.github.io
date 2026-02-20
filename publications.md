@@ -8,27 +8,34 @@ permalink: /publications/
     <h3 style="margin:0 0 0.25em 0;">2025</h3>
     <ul style="margin:0; padding-left:1.15em;">
 
-        <li style="margin:0 0 0.4em 0; line-height:1.6;">
-            Kai Golan Hashiloni, Shay Cohen, Asaf Shina, Jingyi Yang, Orr Meir Zwebner,
-            Nicola Bajetta, Guy Bilitski, Rebecca Sundén, Guy Maduel, Ryan Conlon, Ari Barzilai,
-            Daniel Mass, Shanshan Jia, Aviv Naaman, Sonam Choden, Sonam Jamtsho, Yadi Qu,
-            Harunaga Isaacson, Dorji Wangchuk, Shai Fine, Orna Almogi, and Kfir Bar.
+        <li style="margin:0 0 0.4em 0; line-height:1.4;">
+            Lior Baruch, Moshe Butman, Kfir Bar, and Doron Friedman.
+            <a href="https://openreview.net/forum?id=fTVhWlzCuk">Preference Tree Optimization: Enhancing Goal-Oriented Dialogue with Look-Ahead Simulations, Scaling Self-Improving Foundation Models without Human Supervision</a>.
+            In Proceedings of the International Conference on Learning Representations (ICLR) 2025.
+        </li>
+
+        <li style="margin:0 0 0.4em 0; line-height:1.4;">
+            Kai Golan Hashiloni, Shay Cohen, Asaf Shina, Jingyi Yang, Orr Meir Zwebner, Nicola Bajetta, Guy Bilitski, Rebecca Sundén, Guy Maduel, Ryan Conlon, Ari Barzilai, Daniel Mass, Shanshan Jia, Aviv Naaman, Sonam Choden, Sonam Jamtsho, Yadi Qu, Harunaga Isaacson, Dorji Wangchuk, Shai Fine, Orna Almogi, and Kfir Bar.
             <a href="https://aclanthology.org/2025.ijcnlp-long.114/">DharmaBench: Evaluating Language Models on Buddhist Texts in Sanskrit and Tibetan</a>.
-            In Proceedings of the 14th International Joint Conference on Natural Language Processing and the 4th Conference of the Asia-Pacific Chapter of the Association for Computational Linguistics, pages 2088–2110, Mumbai, India. The Asian Federation of Natural Language Processing and The Association for Computational Linguistics.
+            In Proceedings of the 14th International Joint Conference on Natural Language Processing and the 4th Conference of the Asia-Pacific Chapter of the Association for Computational Linguistics (IJCNLP-AACL 2025), pages 2088–2110, Mumbai, India.
         </li>
 
         <li style="margin:0 0 0.4em 0; line-height:1.4;">
             Ofri Hefetz, Kai Golan Hashiloni, Alon Mannor, and Kfir Bar.
             <a href="https://aclanthology.org/2025.ijcnlp-long.136/">Not Just a Piece of Cake: Cross-Lingual Fine-Tuning for Idiom Identification</a>.
-            In Proceedings of the 14th International Joint Conference on Natural Language Processing and the 4th Conference of the Asia-Pacific Chapter of the Association for Computational Linguistics, pages 2521–2537, Mumbai, India. The Asian Federation of Natural Language Processing and The Association for Computational Linguistics.
+            In Proceedings of the 14th International Joint Conference on Natural Language Processing and the 4th Conference of the Asia-Pacific Chapter of the Association for Computational Linguistics (IJCNLP-AACL 2025), pages 2521–2537, Mumbai, India.
         </li>
 
         <li style="margin:0 0 0.4em 0; line-height:1.4;">
-            Kai Golan Hashiloni, Ofri Hefetz, and Kfir Bar. 2025. <a href="https://aclanthology.org/2025.emnlp-main.1213/">Easy as PIE? Identifying Multi-Word Expressions with LLMs</a>. In Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing, pages 23782–23801, Suzhou, China. Association for Computational Linguistics.
+            Kai Golan Hashiloni, Ofri Hefetz, and Kfir Bar.
+            <a href="https://aclanthology.org/2025.emnlp-main.1213/">Easy as PIE? Identifying Multi-Word Expressions with LLMs</a>.
+            In Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing (EMNLP 2025), pages 23782–23801, Suzhou, China.
         </li>
 
         <li style="margin:0 0 0.4em 0; line-height:1.4;">
-            Kai Golan Hashiloni, Brenda Kasabe Nokai, Michal Shevach, Esthy Shemesh, Ronit Bartin, Anna Bergrin, Liran Harel, Nachum Dershowitz, Liat Nadai Arad, Kfir Bar. <a href="https://arxiv.org/html/2512.11502v1">Building Patient Journeys in Hebrew: A Language Model for Clinical Timeline Extraction</a>. In Proceedings of the Workshop on Large Language Models and Generative AI for Health Informatics 2025, IJCAI 2025, Montreal, Canada.
+            Kai Golan Hashiloni, Brenda Kasabe Nokai, Michal Shevach, Esthy Shemesh, Ronit Bartin, Anna Bergrin, Liran Harel, Nachum Dershowitz, Liat Nadai Arad, and Kfir Bar.
+            <a href="https://arxiv.org/html/2512.11502v1">Building Patient Journeys in Hebrew: A Language Model for Clinical Timeline Extraction</a>.
+            In Proceedings of the Workshop on Large Language Models and Generative AI for Health Informatics 2025 (IJCAI-LLM-Health 2025), Montreal, Canada.
         </li>
 
         <li style="margin:0 0 0.4em 0; line-height:1.4;">
@@ -38,21 +45,21 @@ permalink: /publications/
         </li>
 
         <li style="margin:0 0 0.4em 0; line-height:1.4;">
-            Omri Homburger and Kfir Bar. 2025.
+            Omri Homburger and Kfir Bar.
             <a href="https://aclanthology.org/2025.ijcnlp-long.117/">Large Temporal Models: Unlocking Temporal Understanding in LLMs for Temporal Relation Classification</a>.
-            In Proceedings of the 14th International Joint Conference on Natural Language Processing and the 4th Conference of the Asia-Pacific Chapter of the Association for Computational Linguistics, pages 2156–2171, Mumbai, India. The Asian Federation of Natural Language Processing and The Association for Computational Linguistics.
+            In Proceedings of the 14th International Joint Conference on Natural Language Processing and the 4th Conference of the Asia-Pacific Chapter of the Association for Computational Linguistics (IJCNLP-AACL 2025), pages 2156–2171, Mumbai, India.
         </li>
 
         <li style="margin:0 0 0.4em 0; line-height:1.4;">
             Daniel Fadlon, David Dov, Aviya Bennett, Daphna Heller-Miron, Gad Levy, Kfir Bar, and Ahuva Weiss-Meilik.
             <a href="https://aclanthology.org/2025.ijcnlp-long.103/">Decode Like a Clinician: Enhancing LLM Fine-Tuning with Temporal Structured Data Representation</a>.
-            In Proceedings of the 14th International Joint Conference on Natural Language Processing and the 4th Conference of the Asia-Pacific Chapter of the Association for Computational Linguistics, pages 1906–1922, Mumbai, India. The Asian Federation of Natural Language Processing and The Association for Computational Linguistics.
+            In Proceedings of the 14th International Joint Conference on Natural Language Processing and the 4th Conference of the Asia-Pacific Chapter of the Association for Computational Linguistics (IJCNLP-AACL 2025), pages 1906–1922, Mumbai, India.
         </li>
 
         <li style="margin:0 0 0.4em 0; line-height:1.4;">
             Neo Eyal, Nachum Dershowitz, and Kfir Bar.
             <a href="https://aclanthology.org/2025.findings-emnlp.967/">Layer Duplication in LLMs</a>.
-            In Findings of the Association for Computational Linguistics: EMNLP 2025, pages 17797–17807, Suzhou, China. Association for Computational Linguistics.
+            In Findings of the Association for Computational Linguistics: EMNLP 2025, pages 17797–17807, Suzhou, China.
         </li>
 
         <li style="margin:0 0 0.4em 0; line-height:1.4;">
@@ -64,7 +71,7 @@ permalink: /publications/
         <li style="margin:0 0 0.4em 0; line-height:1.4;">
             Adiel Meir and Kfir Bar.
             <a href="https://aclanthology.org/2025.inlg-main.41/">Can LLMs Help Encoder Models Maintain Both High Accuracy and Consistency in Temporal Relation Classification?</a>.
-            In Proceedings of the 18th International Natural Language Generation Conference, pages 716–733, Hanoi, Vietnam. Association for Computational Linguistics.
+            In Proceedings of the 18th International Natural Language Generation Conference (INLG 2025), pages 716–733, Hanoi, Vietnam.
         </li>
 
     </ul>
