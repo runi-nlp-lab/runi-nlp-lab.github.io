@@ -23,7 +23,7 @@ plugins:
 url: 'https://runi-nlp-lab.github.io' # Placeholder, can be updated later
 baseurl: ''
 title: 'RUNI NLP Lab'
-description: 'Led by Dr. Kfir Bar'
+description: 'Reichman University Natural Language Processing Lab'
 permalink: pretty
 logo: "/assets/logo.png" # Retaining logo for now, likely needs update
 

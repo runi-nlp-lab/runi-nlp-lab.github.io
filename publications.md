@@ -75,4 +75,65 @@ permalink: /publications/
         </li>
 
     </ul>
+
+    <h3 style="margin:1.5em 0 0.25em 0;">2024</h3>
+    <ul style="margin:0; padding-left:1.15em;">
+
+        <li style="margin:0 0 0.4em 0; line-height:1.4;">
+            Tomer Ben Moshe, Ido Ziv, Nachum Dershowitz, and Kfir Bar.
+            <a href="https://doi.org/10.1038/s41537-024-00463-3">The contribution of prosody to machine classification of schizophrenia</a>.
+            Nature Schizophrenia, Vol. 10, Article 53 (2024).
+        </li>
+
+        <li style="margin:0 0 0.4em 0; line-height:1.4;">
+            Yael Bar, Kfir Bar, Didi Feldman, Judith Ben-Dror, Meishar Shahoha, Shir Lerner, Shlomit Strulov Shachar, Ahuva Weiss-Meilik, Nachum Dershowitz, Ido Wolf, and Amir Sonnenblick.
+            <a href="https://doi.org/10.1016/j.breast.2024.103777">The impact of extensive intraductal component (EIC) on the genomic risk of recurrence in early hormone receptor positive breast cancer</a>.
+            The Breast, Vol. 77, 103777 (2024).
+        </li>
+
+        <li style="margin:0 0 0.4em 0; line-height:1.4;">
+            Daniel Mitelman, Nachum Dershowitz, and Kfir Bar.
+            <a href="https://aclanthology.org/2024.findings-eacl.102/">Code-Switching and Back-Transliteration Using a Bilingual Model</a>.
+            In Findings of the Association for Computational Linguistics (EACL 2024).
+        </li>
+
+        <li style="margin:0 0 0.4em 0; line-height:1.4;">
+            Andrew Yates, Bart Desmet, Emily Prud’hommeaux, Ayah Zirikly, Steven Bedrick, Sean MacAvaney, Kfir Bar, Molly Ireland, and Yaakov Ophir (Editors).
+            <a href="https://aclanthology.org/volumes/2024.clpsych-1/">Proceedings of the 9th Workshop on Computational Linguistics and Clinical Psychology (CLPsych 2024)</a>.
+        </li>
+
+        <li style="margin:0 0 0.4em 0; line-height:1.4;">
+            Stav Yosef, Moreah Zisquit, Ben Cohen, Anat Klomek Brunstein, Kfir Bar, and Doron Friedman.
+            <a href="https://aclanthology.org/2024.clpsych-1.1/">Assessing motivational interviewing sessions with AI-generated patient simulations</a>.
+            In Proceedings of the 9th Workshop on Computational Linguistics and Clinical Psychology (CLPsych 2024).
+        </li>
+
+        <li style="margin:0 0 0.4em 0; line-height:1.4;">
+            Philip Blair and Kfir Bar.
+            <a href="https://aclanthology.org/2024.lrec-main.838/">JRC-Names-Retrieval: A Standardized Benchmark for Name Search</a>.
+            In Proceedings of the 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING 2024).
+        </li>
+
+        <li style="margin:0 0 0.4em 0; line-height:1.4;">
+            Ben Cohen, Moreah Zisquit, Stav Yosef, Doron Friedman, and Kfir Bar.
+            <a href="https://aclanthology.org/2024.lrec-main.1017/">Motivational Interviewing Transcripts Annotated with Global Scores</a>.
+            In Proceedings of the 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING 2024).
+        </li>
+
+        <li style="margin:0 0 0.4em 0; line-height:1.4;">
+            Abraham Israeli, Aviv Naaman, Guy Maduel, Rawaa Makhoul, Dana Qaraeen, Amir Ejmail, Dina Lisnanskey, Julian Jubran, Shai Fine, and Kfir Bar.
+            <a href="https://aclanthology.org/2024.lrec-main.436/">DiaSet: An Annotated Dataset of Arabic Conversations</a>.
+            In Proceedings of the 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING 2024). <strong>(Outstanding Paper)</strong>.
+        </li>
+
+        <li style="margin:0 0 0.4em 0; line-height:1.4;">
+            Philip Blair and Kfir Bar.
+            <a href="https://aclanthology.org/2024.futured-1.3/">DEGREE²: Efficient Extraction of Multiple Events Using Language Models</a>.
+            In Proceedings of the Workshop on the Future of Event Detection (FuturED 2024).
+        </li>
+
+    </ul>
+
+    <h3 style="margin:1.5em 0 0.25em 0;">2023 and Earlier</h3>
+    <p style="margin:0 0 1em 0;">For a complete list of earlier publications, please visit <a href="https://scholar.google.com/citations?user=7lw3CSEAAAAJ&hl=en">Kfir's Google Scholar</a>.</p>
 </div>

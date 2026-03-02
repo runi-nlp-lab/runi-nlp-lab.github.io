@@ -5,7 +5,7 @@ title: RUNI NLP Lab
 <div style="display: flex; align-items: center; justify-content: space-between; gap: 20px; flex-wrap: wrap; margin-bottom: 40px;">
   <div style="flex: 1; min-width: 250px;">
     <h1>Welcome to RUNI NLP Lab</h1>
-    <p class="lead">Led by <strong>Dr. Kfir Bar</strong>, we are a research group at Reichman University focused on Natural Language Processing.</p>
+    <p class="lead">Led by <strong>Kfir Bar</strong>, we are a research group at Reichman University focused on Natural Language Processing.</p>
     <p>Our research explores the intersection of languages and computation, focusing on low-resource languages, LLM understanding, and text generation.</p>
   </div>
   <div>
