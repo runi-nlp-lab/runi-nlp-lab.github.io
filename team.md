@@ -54,8 +54,8 @@ permalink: /team/
 <div class="members-grid" style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 20px;">
 
   <div class="member-card">
-    <img src="/members_pics/daniel_hacker.jpg" alt="Daniel Hacker" style="width: 100%; aspect-ratio: 1/1; object-fit: cover; border-radius: 8px;">
-    <h4 style="font-size: 1em; margin: 10px 0 5px 0; letter-spacing: -0.01em;">Daniel Hacker</h4>
+    <img src="/members_pics/daniel_hacker.jpeg" alt="Daniel Hacker" style="width: 100%; aspect-ratio: 1/1; object-fit: cover; border-radius: 8px;">
+    <h4 style="font-size: 1em; margin: 10px 0 5px 0; letter-spacing: -0.01em;"><a href="https://www.linkedin.com/in/daniel-hacker-/">Daniel Hacker</a></h4>
     <p>Master's Student</p>
   </div>
 
@@ -72,8 +72,8 @@ permalink: /team/
   </div>
 
   <div class="member-card">
-    <img src="/members_pics/bar_cohen.jpg" alt="Bar Cohen" style="width: 100%; aspect-ratio: 1/1; object-fit: cover; border-radius: 8px;">
-    <h4 style="font-size: 1em; margin: 10px 0 5px 0; letter-spacing: -0.01em;">Bar Cohen</h4>
+    <img src="/members_pics/bar_cohen.jpeg" alt="Bar Cohen" style="width: 100%; aspect-ratio: 1/1; object-fit: cover; border-radius: 8px;">
+    <h4 style="font-size: 1em; margin: 10px 0 5px 0; letter-spacing: -0.01em;"><a href="https://www.linkedin.com/in/bar-cohen-86290a1a9/">Bar Cohen</a></h4>
     <p>Master's Student</p>
   </div>
 
@@ -90,14 +90,14 @@ permalink: /team/
   </div>
 
   <div class="member-card">
-    <img src="/members_pics/dor_hazan.jpg" alt="Dor Hazan" style="width: 100%; aspect-ratio: 1/1; object-fit: cover; border-radius: 8px;">
-    <h4 style="font-size: 1em; margin: 10px 0 5px 0; letter-spacing: -0.01em;">Dor Hazan</h4>
+    <img src="/members_pics/dor_hazan.jpeg" alt="Dor Hazan" style="width: 100%; aspect-ratio: 1/1; object-fit: cover; border-radius: 8px;">
+    <h4 style="font-size: 1em; margin: 10px 0 5px 0; letter-spacing: -0.01em;"><a href="https://www.linkedin.com/in/dor-hazan-853a36296/">Dor Hazan</a></h4>
     <p>Master's Student</p>
   </div>
 
   <div class="member-card">
-    <img src="/members_pics/karin_schmidt.jpg" alt="Karin Schmidt" style="width: 100%; aspect-ratio: 1/1; object-fit: cover; border-radius: 8px;">
-    <h4 style="font-size: 1em; margin: 10px 0 5px 0; letter-spacing: -0.01em;">Karin Schmidt</h4>
+    <img src="/members_pics/karin_shmit.jpeg" alt="Karin Shmit" style="width: 100%; aspect-ratio: 1/1; object-fit: cover; border-radius: 8px;">
+    <h4 style="font-size: 1em; margin: 10px 0 5px 0; letter-spacing: -0.01em;"><a href="https://www.linkedin.com/in/karin-shmit">Karin Shmit</a></h4>
     <p>Master's Student</p>
   </div>
 
@@ -115,7 +115,7 @@ permalink: /team/
 ## Former Members
 
 <ul>
-  <li><a href="https://www.linkedin.com/in/adiel-matuf/">Adiel Meir</a> - Now at [Company/University]</li>
+  <li><a href="https://www.linkedin.com/in/adiel-matuf/">Adiel Meir</a> - Now at Tencyle</li>
   <li><a href="https://www.linkedin.com/in/omri-homburger-545754139/">Omri Homburger</a> - Now at Google</li>
   <li><a href="#">Aviad Rom</a> - Now at [Company/University]</li>
   <li><a href="#">Daniel Mitelman</a> - Now at [Company/University]</li>

@@ -132,6 +132,18 @@ permalink: /publications/
             In Proceedings of the Workshop on the Future of Event Detection (FuturED 2024).
         </li>
 
+        <li style="margin:0 0 0.4em 0; line-height:1.4;">
+            Aviad Rom and Kfir Bar.
+            <a href="https://arxiv.org/abs/2402.16065">Training a Bilingual Language Model by Mapping Tokens onto a Shared Character Space</a>.
+            arXiv preprint arXiv:2402.16065 (2024).
+        </li>
+
+        <li style="margin:0 0 0.4em 0; line-height:1.4;">
+            Hagai Ligumsky, Yael Bar, Ido Wolf, and Kfir Bar.
+            <a href="https://pubmed.ncbi.nlm.nih.gov/38431859/">[Novel Technologies and Future Trends in Translational Research in Oncology]</a>.
+            Harefuah, 163(2):102-108 (2024). (Hebrew).
+        </li>
+
     </ul>
 
     <h3 style="margin:1.5em 0 0.25em 0;">2023 and Earlier</h3>
