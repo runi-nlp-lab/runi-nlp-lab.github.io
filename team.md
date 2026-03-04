@@ -60,8 +60,8 @@ permalink: /team/
   </div>
 
   <div class="member-card">
-    <img src="/members_pics/topaz_freizeit.jpg" alt="Topaz Freizeit" style="width: 100%; aspect-ratio: 1/1; object-fit: cover; border-radius: 8px;">
-    <h4 style="font-size: 1em; margin: 10px 0 5px 0; letter-spacing: -0.01em;">Topaz Freizeit</h4>
+    <img src="/members_pics/topaz_freizeit.jpeg" alt="Topaz Freizeit" style="width: 100%; aspect-ratio: 1/1; object-fit: cover; border-radius: 8px;">
+    <h4 style="font-size: 1em; margin: 10px 0 5px 0; letter-spacing: -0.01em;"><a href="https://www.linkedin.com/in/topaz-freizeit-0765951b3/">Topaz Freizeit</a></h4>
     <p>Master's Student</p>
   </div>
 
