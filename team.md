@@ -102,8 +102,8 @@ permalink: /team/
   </div>
 
   <div class="member-card">
-    <img src="/members_pics/noa_minsker.jpg" alt="Noa Minsker" style="width: 100%; aspect-ratio: 1/1; object-fit: cover; border-radius: 8px;">
-    <h4 style="font-size: 1em; margin: 10px 0 5px 0; letter-spacing: -0.01em;">Noa Minsker</h4>
+    <img src="/members_pics/noa_minsker.jpeg" alt="Noa Minsker" style="width: 100%; aspect-ratio: 1/1; object-fit: cover; border-radius: 8px;">
+    <h4 style="font-size: 1em; margin: 10px 0 5px 0; letter-spacing: -0.01em;"><a href="https://www.linkedin.com/in/noa-minsker-471577127">Noa Minsker</a></h4>
     <p>Master's Student</p>
   </div>
 
@@ -115,15 +115,15 @@ permalink: /team/
 ## Former Members
 
 <ul>
-  <li><a href="https://www.linkedin.com/in/adiel-matuf/">Adiel Meir</a> - Now at Tencyle</li>
-  <li><a href="https://www.linkedin.com/in/omri-homburger-545754139/">Omri Homburger</a> - Now at Google</li>
-  <li><a href="#">Aviad Rom</a> - Now at [Company/University]</li>
-  <li><a href="#">Daniel Mitelman</a> - Now at [Company/University]</li>
-  <li><a href="#">Stav Yosef</a> - Now at [Company/University]</li>
-  <li><a href="#">Stav Shemesh</a> - Now at [Company/University]</li>
-  <li><a href="#">Omer Cohen</a> - Now at [Company/University]</li>
-  <li><a href="#">Tomer Ben Moshe</a> - Now at [Company/University]</li>
-  <li><a href="#">Saeid Ismail</a> - Now at [Company/University]</li>
-  <li><a href="#">Ofri Masad</a> - Now at [Company/University]</li>
-  <li><a href="#">Daniel Kurt</a> - Now at [Company/University]</li>
+  <li><a href="https://www.linkedin.com/in/adiel-matuf/">Adiel Meir</a></li>
+  <li><a href="https://www.linkedin.com/in/omri-homburger-545754139/">Omri Homburger</a></li>
+  <li><a href="https://www.linkedin.com/in/aviadrom/">Aviad Rom</a></li>
+  <li><a href="https://www.linkedin.com/in/daniel-wm/">Daniel Mitelman</a></li>
+  <li><a href="https://www.linkedin.com/in/stav-yosef/">Stav Yosef</a></li>
+  <li><a href="https://www.linkedin.com/in/stav-shemesh/">Stav Shemesh</a></li>
+  <li><a href="#">Omer Cohen</a></li>
+  <li><a href="#">Tomer Ben Moshe</a></li>
+  <li><a href="#">Saeid Ismail</a></li>
+  <li><a href="https://www.linkedin.com/in/ofri-masad-95559147/">Ofri Masad</a></li>
+  <li><a href="#">Daniel Kurt</a></li>
 </ul>

@@ -17,6 +17,7 @@ title: RUNI NLP Lab
 
 <hr>
 
+<!--
 ## 📰 News
 <div class="news-section">
   {% for post in site.posts limit:3 %}
@@ -32,7 +33,6 @@ title: RUNI NLP Lab
 
 ## 🗓️ Upcoming Events
 <div class="events-section">
-  <!-- Static events list for now -->
   <div style="margin-bottom: 15px;">
     <strong>Weekly Lab Meeting</strong><br>
     Every Wednesday at 14:00 <br>
@@ -41,7 +41,7 @@ title: RUNI NLP Lab
 </div>
 
 <hr>
-
+-->
 ## 📍 Find Us
 <div style="margin-top: 20px; display:flex; gap:40px; align-items:center; flex-wrap: wrap;">
   
