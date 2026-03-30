@@ -9,7 +9,7 @@ title: RUNI NLP Lab
     <h1 style="margin-top: 0;">Welcome to RUNI NLP Lab</h1>
     <p class="lead">Led by <strong>Kfir Bar</strong>, we are a research group at Reichman University focused on Natural Language Processing (NLP).</p>
     <p>Our research explores the intersection of languages and computation, focusing on low-resource languages, LLM analysis, and text generation.</p>
-    <p>Feel free to explore our recent <a href="/publications/" style="color: #1b258a;">publications</a> and see the current and former <a href="/team/" style="color: #1b258a;">members</a> of the lab.</p>
+    <p>Feel free to explore our recent <a href="/publications/">publications</a> and see the current and former <a href="/team/">members</a> of the lab.</p>
   </div>
   <div>
     <!-- Placeholder for Lab Image or Logo -->
@@ -76,7 +76,7 @@ title: RUNI NLP Lab
   <a
     href="mailto:kai.golanhashiloni@post.runi.ac.il?subject=Inquiry%20RUNI%20NLP"
     aria-label="Email Lab Director"
-    style="display:inline-flex; align-items:center; gap:8px; padding:10px 14px; background:#1b258a; color:#fff; text-decoration:none; border-radius:8px; font-weight:600;"
+    style="display:inline-flex; align-items:center; gap:8px; padding:10px 14px; background:#1b258a; color:#ffffff !important; text-decoration:none !important; border-radius:8px; font-weight:600;"
   >
     <svg width="16" height="16" viewBox="0 0 24 24" fill="none" aria-hidden="true" xmlns="http://www.w3.org/2000/svg">
       <path d="M4 6.5C4 5.67 4.67 5 5.5 5H18.5C19.33 5 20 5.67 20 6.5V17.5C20 18.33 19.33 19 18.5 19H5.5C4.67 19 4 18.33 4 17.5V6.5Z" stroke="white" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round"/>
