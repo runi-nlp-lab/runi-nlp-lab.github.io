@@ -4,6 +4,8 @@ title: Team
 permalink: /team/
 ---
 
+{% include custom_style.html %}
+
 ## Lab Director
 
 <div style="display: flex; gap: 20px; align-items: start; margin-bottom: 40px;">
@@ -11,7 +13,7 @@ permalink: /team/
   <div>
     <h3>Kfir Bar</h3>
     <p><strong>Head of RUNI NLP Lab</strong></p>
-    <p style="font-size: 0.85em; line-height: 1.4; margin-top: 0.5em;">Kfir Bar is a leading researcher in natural language processing (NLP) and artificial intelligence, currently serving as Senior Lecturer of Computer Science at Reichman University and leading its NLP research efforts. His work spans core NLP areas, from statistical machine translation and named-entity recognition, to applied language understanding and digital humanities and bridges both academic research and real-world applications. Kfir holds a Ph.D. in Computer Science from Tel Aviv University, where his doctoral research focused on semantics and machine translation, and has extensive experience in industry, including founding and leading tech ventures and serving as Chief Scientist at major NLP technology firms. His research interests include computational linguistics and semantics, NLP for digital humanities, healthcare and mental health, with specific emphasis on under-resourced and highly inflected languages as Hebrew, Arabic, Sanskrit and Tibetan.</p>
+    <p style="font-size:0.75em; line-height:1.2; margin:0; padding:0;">Kfir Bar is a leading researcher in natural language processing (NLP) and artificial intelligence, currently serving as Senior Lecturer of Computer Science at Reichman University and leading its NLP research efforts. His work spans core NLP areas, from statistical machine translation and named-entity recognition, to applied language understanding and digital humanities and bridges both academic research and real-world applications. Kfir holds a Ph.D. in Computer Science from Tel Aviv University, where his doctoral research focused on semantics and machine translation, and has extensive experience in industry, including founding and leading tech ventures and serving as Chief Scientist at major NLP technology firms. His research interests include computational linguistics and semantics, NLP for digital humanities, healthcare and mental health, with specific emphasis on under-resourced and highly inflected languages as Hebrew, Arabic, Sanskrit and Tibetan.</p>
     <a href="mailto:kfir.bar@runi.ac.il">Email</a> | <a href="https://www.linkedin.com/in/kfirbar/">LinkedIn</a> | <a href="https://scholar.google.com/citations?user=7lw3CSEAAAAJ&hl=en">Google Scholar</a>
   </div>
 </div>
@@ -123,7 +125,7 @@ permalink: /team/
   <li><a href="https://www.linkedin.com/in/stav-shemesh/">Stav Shemesh</a></li>
   <li><a href="#">Omer Cohen</a></li>
   <li><a href="#">Tomer Ben Moshe</a></li>
-  <li><a href="#">Saeid Ismail</a></li>
+  <li><a href="#">Saeed Ismail</a></li>
   <li><a href="https://www.linkedin.com/in/ofri-masad-95559147/">Ofri Masad</a></li>
-  <li><a href="#">Daniel Kurt</a></li>
+  <li><a href="#">Daniel Korat</a></li>
 </ul>

@@ -4,6 +4,8 @@ title: 🧾 Publications
 permalink: /publications/
 ---
 
+{% include custom_style.html %}
+
 <div style="font-size:0.7em; line-height:1.15; margin:0; padding:0;">
     <h3 style="margin:0 0 0.25em 0;">2025</h3>
     <ul style="margin:0; padding-left:1.15em;">
@@ -41,7 +43,7 @@ permalink: /publications/
         <li style="margin:0 0 0.4em 0; line-height:1.4;">
             Stav Yosef, Moreah Zisquit, Ben Cohen, Anat Brunstein Klomek, Kfir Bar, and Doron Friedman.
             <a href="https://doi.org/10.1038/s44184-025-00159-1">The impact of fine-tuning LLMs on the quality of automated therapy assessed by digital patients</a>.
-            npj Mental Health Research, 4, 43 (2025).
+            npj Mental Health Research, 4, 43 (2025). <strong>(Outstanding Paper)</strong>.
         </li>
 
         <li style="margin:0 0 0.4em 0; line-height:1.4;">
@@ -123,7 +125,7 @@ permalink: /publications/
         <li style="margin:0 0 0.4em 0; line-height:1.4;">
             Abraham Israeli, Aviv Naaman, Guy Maduel, Rawaa Makhoul, Dana Qaraeen, Amir Ejmail, Dina Lisnanskey, Julian Jubran, Shai Fine, and Kfir Bar.
             <a href="https://aclanthology.org/2024.lrec-main.436/">DiaSet: An Annotated Dataset of Arabic Conversations</a>.
-            In Proceedings of the 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING 2024). <strong>(Outstanding Paper)</strong>.
+            In Proceedings of the 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING 2024).
         </li>
 
         <li style="margin:0 0 0.4em 0; line-height:1.4;">
