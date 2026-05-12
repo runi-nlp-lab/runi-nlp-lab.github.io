@@ -7,9 +7,9 @@ title: RUNI NLP Lab
 <div style="display: flex; align-items: flex-start; justify-content: space-between; gap: 20px; flex-wrap: wrap; margin-bottom: 40px;">
   <div style="flex: 1; min-width: 250px;">
     <h1 style="margin-top: 0;">Welcome to RUNI NLP Lab</h1>
-    <p class="lead">Led by <strong>Kfir Bar</strong>, we are a research group at Reichman University focused on Natural Language Processing (NLP).</p>
-    <p>Our research explores the intersection of languages and computation, focusing on low-resource languages, LLM analysis, and text generation.</p>
-    <p>Feel free to explore our recent <a href="/publications/">publications</a> and see the current and former <a href="/team/">members</a> of the lab.</p>
+    <p class="lead">We are an NLP research group at Reichman University, led by <a href="https://www.linkedin.com/in/kfirbar/"><strong>Kfir Bar</strong></a>.</p>
+    <p>Our research explores the intersection of language and computation, with a focus on low-resource languages, LLM analysis, and text generation.</p>
+    <p>Explore our recent <a href="/publications/">publications</a> and meet the current and former <a href="/team/">members</a> of the lab.</p>
   </div>
   <div>
     <!-- Placeholder for Lab Image or Logo -->
@@ -19,31 +19,23 @@ title: RUNI NLP Lab
 
 <hr>
 
-<!--
 ## 📰 News
-<div class="news-section">
-  {% for post in site.posts limit:3 %}
-  <div style="margin-bottom: 15px;">
-    <span style="color: #666; font-size: 0.9em;">{{ post.date | date: "%b %d, %Y" }}</span>
-    <br>
-    <a href="{{ post.url }}" style="font-weight: bold; font-size: 1.1em;">{{ post.title }}</a>
-  </div>
-  {% endfor %}
-</div>
+
+<ul style="list-style: none; padding: 0; margin: 12px 0; font-size: 0.9em; line-height: 1.9;">
+  <li>A <a href="https://lrec.elra.info/lrec2026-main-079">paper</a> accepted to LREC 2026.</li>
+  <li>A <a href="https://openreview.net/forum?id=fTVhWlzCuk">paper</a> accepted to ICLR 2025.</li>
+  <li>A <a href="https://aclanthology.org/2025.emnlp-main.1213/">paper</a> accepted to EMNLP 2025.</li>
+  <li>A <a href="https://aclanthology.org/2025.findings-emnlp.967/">paper</a> accepted to EMNLP 2025 (Findings).</li>
+  <li>A <a href="https://aclanthology.org/2025.ijcnlp-long.114/">paper</a> accepted to IJCNLP-AACL 2025.</li>
+  <li>A <a href="https://aclanthology.org/2025.ijcnlp-long.136/">paper</a> accepted to IJCNLP-AACL 2025.</li>
+  <li>A <a href="https://aclanthology.org/2025.ijcnlp-long.117/">paper</a> accepted to IJCNLP-AACL 2025.</li>
+  <li>A <a href="https://aclanthology.org/2025.ijcnlp-long.103/">paper</a> accepted to IJCNLP-AACL 2025.</li>
+  <li>A <a href="https://aclanthology.org/2025.inlg-main.41/">paper</a> accepted to INLG 2025.</li>
+  <li>A <a href="https://doi.org/10.1038/s44184-025-00159-1">paper</a> accepted to npj Mental Health Research 2025 — Outstanding Paper.</li>
+  <li style="margin-top: 4px;">… <a href="/publications/" style="font-weight: 600;">See all publications →</a></li>
+</ul>
 
 <hr>
-
-## 🗓️ Upcoming Events
-<div class="events-section">
-  <div style="margin-bottom: 15px;">
-    <strong>Weekly Lab Meeting</strong><br>
-    Every Wednesday at 14:00 <br>
-    <span style="color: #666;">Room A204 / Zoom</span>
-  </div>
-</div>
-
-<hr>
--->
 
 ## 🔬 Our Research
 
@@ -57,13 +49,13 @@ title: RUNI NLP Lab
 
   <div style="border: 2px solid #1b258a; border-radius: 12px; padding: 20px; background-color: #abb0e4; box-shadow: 0 4px 6px rgba(0,0,0,0.05);">
     <h3 style="margin-top: 0; color: #1b258a; font-size: 1.3em;">Healthcare</h3>
-    <p style="color: #111;">We design NLP systems for real-world healthcare impact. Our research spans from developing pipelines that extract structured patient journeys from clinical records to enhancing language models for automated mental health therapy.</p>
+    <p style="color: #111;">We develop NLP systems with real-world healthcare applications, from pipelines that extract structured patient journeys from clinical records to language models for automated mental health therapy.</p>
     <p style="font-size: 0.9em; margin-bottom: 0; line-height: 1.4; color: #111;"><strong>Example:</strong> <br><a href="https://aclanthology.org/2025.ijcnlp-long.103/" style="color: #1b258a; font-weight: 600; text-shadow: none; background: none; text-decoration: underline;">Decode Like a Clinician: Enhancing LLM Fine-Tuning with Temporal Structured Data Representation</a> (Fadlon et al., 2025)</p>
   </div>
 
   <div style="border: 2px solid #1b258a; border-radius: 12px; padding: 20px; background-color: #abb0e4; box-shadow: 0 4px 6px rgba(0,0,0,0.05);">
     <h3 style="margin-top: 0; color: #1b258a; font-size: 1.3em;">Digital Humanities</h3>
-    <p style="color: #111;">We develop language technologies for the analysis of varied and historical textual corpora. By bridging NLP with philology and cultural studies, we enable large-scale, computational access to texts in under-resourced languages like Sanskrit and Tibetan.</p>
+    <p style="color: #111;">We develop language technologies for the analysis of diverse historical corpora. By bridging NLP with philology and cultural studies, we enable large-scale computational access to texts in under-resourced languages like Sanskrit and Tibetan.</p>
     <p style="font-size: 0.9em; margin-bottom: 0; line-height: 1.4; color: #111;"><strong>Example:</strong> <br><a href="https://aclanthology.org/2025.ijcnlp-long.114/" style="color: #1b258a; font-weight: 600; text-shadow: none; background: none; text-decoration: underline;">DharmaBench: Evaluating Language Models on Buddhist Texts in Sanskrit and Tibetan</a> (Hashiloni et al., 2025)</p>
   </div>
 
