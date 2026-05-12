@@ -42,7 +42,7 @@ permalink: /team/
 
   <!-- Member 3 -->
   <div class="member-card">
-    <img src="/members_pics/daniel_fadlon.jpg" alt="Daniel Fadlon" style="width: 100%; aspect-ratio: 1/1; object-fit: cover; border-radius: 8px;">
+    <img src="/members_pics/daniel_fadlon.png" alt="Daniel Fadlon" style="width: 100%; aspect-ratio: 1/1; object-fit: cover; border-radius: 8px;">
     <h4 style="font-size: 1em; margin: 10px 0 5px 0; letter-spacing: -0.01em;"><a href="https://www.linkedin.com/in/daniel-fadlon-36734116b/">Daniel Fadlon</a></h4>
     <p>PhD Student</p>
   </div>
