@@ -37,4 +37,95 @@
     color: #1b258a;
   }
 
+  /* Custom lab header */
+.lab-header {
+  width: 100%;
+  background: #ffffff;
+  border-bottom: 1px solid #222;
+  margin-bottom: 48px;
+}
+
+.lab-header-top {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 32px;
+  padding: 18px 52px 12px 52px;
+  border-bottom: 1px solid #222;
+}
+
+.lab-title {
+  color: #333333 !important;
+  text-decoration: none !important;
+  font-size: 42px;
+  font-weight: 700;
+  line-height: 1.1;
+  letter-spacing: 0.2px;
+}
+
+.lab-title:hover {
+  color: #1b258a !important;
+  text-decoration: none !important;
+}
+
+.lab-header-logos {
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  gap: 24px;
+  flex-wrap: wrap;
+}
+
+.lab-header-logos img {
+  max-height: 62px;
+  width: auto;
+  object-fit: contain;
+}
+
+.lab-nav {
+  display: flex;
+  align-items: center;
+  gap: 56px;
+  padding: 14px 68px;
+  background: #ffffff;
+}
+
+.lab-nav a {
+  color: #222222 !important;
+  text-decoration: none !important;
+  font-size: 16px;
+  font-weight: 400;
+}
+
+.lab-nav a:hover {
+  color: #1b258a !important;
+  text-decoration: underline !important;
+}
+
+@media (max-width: 850px) {
+  .lab-header-top {
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 20px;
+  }
+
+  .lab-title {
+    font-size: 32px;
+  }
+
+  .lab-header-logos {
+    justify-content: flex-start;
+  }
+
+  .lab-header-logos img {
+    max-height: 48px;
+  }
+
+  .lab-nav {
+    flex-wrap: wrap;
+    gap: 22px;
+    padding: 14px 20px;
+  }
+}
+
 </style>

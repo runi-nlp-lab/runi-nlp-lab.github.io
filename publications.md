@@ -4,7 +4,7 @@ title: Publications
 permalink: /publications/
 ---
 
-{% include custom_style.html %}
+<div class="runi-page-body">
 
 <style>
   .pub-list {
@@ -22,20 +22,23 @@ permalink: /publications/
   .pub-year-heading {
     font-size: 1.15em;
     font-weight: 700;
-    color: #1b258a;
+    color: #0b369e;
     margin: 2em 0 0.4em 0;
-    border-bottom: 2px solid #1b258a;
+    border-bottom: 2px solid #0b369e;
     padding-bottom: 4px;
+  }
+  .pub-year-heading:first-of-type {
+    margin-top: 0;
   }
   .pub-venue {
     font-weight: 700;
-    color: #1b258a;
+    color: #0b369e;
     font-size: 0.88em;
     margin-bottom: 3px;
   }
   .pub-badge {
     display: inline-block;
-    background: #1b258a;
+    background: #0b369e;
     color: white !important;
     font-size: 0.78em;
     padding: 1px 7px;
@@ -63,19 +66,24 @@ permalink: /publications/
     font-size: 0.82em;
     margin-right: 6px;
     font-weight: 500;
-    border: 1px solid #1b258a !important;
+    border: 1px solid #0b369e !important;
     padding: 1px 9px;
     border-radius: 4px;
-    color: #1b258a !important;
+    color: #0b369e !important;
     text-decoration: none !important;
     background: none !important;
     box-shadow: none !important;
     background-image: none !important;
   }
-  .pub-links a:hover {
-    background: #1b258a !important;
-    color: white !important;
+  .pub-links a:hover,
+  .pub-links a:hover *,
+  div.pub-links a:hover {
+    background: #0b369e !important;
+    background-image: none !important;
+    color: #ffffff !important;
     text-decoration: none !important;
+    text-shadow: none !important;
+    -webkit-text-fill-color: #ffffff !important;
   }
 </style>
 
@@ -105,7 +113,7 @@ permalink: /publications/
     <div class="pub-venue">EMNLP 2025</div>
     <div class="pub-title">Easy as PIE? Identifying Multi-Word Expressions with LLMs</div>
     <div class="pub-authors">Kai Golan Hashiloni, Ofri Hefetz, Kfir Bar</div>
-    <div class="pub-links"><a href="https://aclanthology.org/2025.emnlp-main.1213/">Paper</a></div>
+    <div class="pub-links"><a href="https://aclanthology.org/2025.emnlp-main.1213/">Paper</a><a href="https://github.com/Intellexus-DSI/easy-as-pie">Code</a></div>
   </li>
 
   <li>
@@ -119,14 +127,14 @@ permalink: /publications/
     <div class="pub-venue">IJCNLP-AACL 2025</div>
     <div class="pub-title">DharmaBench: Evaluating Language Models on Buddhist Texts in Sanskrit and Tibetan</div>
     <div class="pub-authors">Kai Golan Hashiloni, Shay Cohen, Asaf Shina, Jingyi Yang, Orr Meir Zwebner, Nicola Bajetta, Guy Bilitski, Rebecca Sundén, Guy Maduel, Ryan Conlon, Ari Barzilai, Daniel Mass, Shanshan Jia, Aviv Naaman, Sonam Choden, Sonam Jamtsho, Yadi Qu, Harunaga Isaacson, Dorji Wangchuk, Shai Fine, Orna Almogi, Kfir Bar</div>
-    <div class="pub-links"><a href="https://aclanthology.org/2025.ijcnlp-long.114/">Paper</a></div>
+    <div class="pub-links"><a href="https://aclanthology.org/2025.ijcnlp-long.114/">Paper</a><a href="https://github.com/Intellexus-DSI/DharmaBench">Code</a><a href="https://huggingface.co/datasets/Intellexus/DharmaBench">Dataset</a></div>
   </li>
 
   <li>
     <div class="pub-venue">IJCNLP-AACL 2025</div>
     <div class="pub-title">Not Just a Piece of Cake: Cross-Lingual Fine-Tuning for Idiom Identification</div>
     <div class="pub-authors">Ofri Hefetz, Kai Golan Hashiloni, Alon Mannor, Kfir Bar</div>
-    <div class="pub-links"><a href="https://aclanthology.org/2025.ijcnlp-long.136/">Paper</a></div>
+    <div class="pub-links"><a href="https://aclanthology.org/2025.ijcnlp-long.136/">Paper</a><a href="https://github.com/Intellexus-DSI/Not-just-a-piece-of-cake">Code</a></div>
   </li>
 
   <li>
@@ -257,3 +265,6 @@ permalink: /publications/
 
 <h2 class="pub-year-heading">2023 and Earlier</h2>
 <p>For a complete list of earlier publications, visit <a href="https://scholar.google.com/citations?user=7lw3CSEAAAAJ&hl=en">Kfir's Google Scholar</a>.</p>
+
+
+</div><!-- end runi-page-body -->

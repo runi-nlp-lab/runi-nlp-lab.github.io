@@ -1,33 +1,35 @@
 ---
-title: ✉︎ Contact Us
+title: Contact
 permalink: /contact/
 ---
 
-{% include custom_style.html %}
+<div class="runi-page-body">
 
+<h2 class="runi-section-title">Contact Us</h2>
 
-You can reach us at:
-
-<div style="margin-top: 20px; display:flex; gap:40px; align-items:center; flex-wrap: wrap;">
-  
-  <a
-    href="mailto:kai.golanhashiloni@post.runi.ac.il?subject=Inquiry%20RUNI%20NLP"
-    aria-label="Email Lab Director"
-    style="display:inline-flex; align-items:center; gap:8px; padding:10px 14px; background:#1b258a; color:#ffffff !important; text-decoration:none !important; border-radius:8px; font-weight:600;"
-  >
-    <svg width="16" height="16" viewBox="0 0 24 24" fill="none" aria-hidden="true" xmlns="http://www.w3.org/2000/svg">
-      <path d="M4 6.5C4 5.67 4.67 5 5.5 5H18.5C19.33 5 20 5.67 20 6.5V17.5C20 18.33 19.33 19 18.5 19H5.5C4.67 19 4 18.33 4 17.5V6.5Z" stroke="white" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round"/>
-      <path d="M21 6L12 13L3 6" stroke="white" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round"/>
+<div class="contact-card" style="margin-top: 20px;">
+  <div class="contact-info">
+    <p class="contact-lab">RUNI NLP Lab</p>
+    <p class="contact-address">Reichman University · Herzliya, Israel</p>
+  </div>
+  <a href="mailto:kai.golanhashiloni@post.runi.ac.il?subject=Inquiry%20RUNI%20NLP" class="contact-btn">
+    <svg width="15" height="15" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+      <path d="M4 6.5C4 5.67 4.67 5 5.5 5H18.5C19.33 5 20 5.67 20 6.5V17.5C20 18.33 19.33 19 18.5 19H5.5C4.67 19 4 18.33 4 17.5V6.5Z" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+      <path d="M21 6L12 13L3 6" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
     </svg>
-    Email Kai Golan Hashiloni
+    Get in touch
   </a>
-
-
-
 </div>
 
-<div style="margin-top: 40px;">
-<h3>Visit Us</h3>
-<p>We are located at the Reichman University campus.</p>
-<!-- Placeholder for map or further details -->
+<div class="contact-card" style="margin-top: 16px;">
+  <div class="contact-info">
+    <p class="contact-lab">Lab Director</p>
+    <p class="contact-address">Kfir Bar · <a href="mailto:kfir.bar@runi.ac.il" style="color:#0b369e;">kfir.bar@runi.ac.il</a></p>
+  </div>
+  <div style="display:flex; gap:10px; flex-wrap:wrap;">
+    <a href="https://www.linkedin.com/in/kfirbar/" class="contact-btn" style="background:#0b369e;">LinkedIn</a>
+    <a href="https://scholar.google.com/citations?user=7lw3CSEAAAAJ&hl=en" class="contact-btn" style="background:#0b369e;">Google Scholar</a>
+  </div>
+</div>
+
 </div>
