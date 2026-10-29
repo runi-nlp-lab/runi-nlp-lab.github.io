@@ -26,25 +26,13 @@ title: RUNI NLP Lab
 <h2 class="runi-section-title">News</h2>
 
 <div class="news-grid">
-
+{% for item in site.data.news limit: 9 %}
   <div class="news-card">
-    <div class="news-card-date">2026</div>
-    <p class="news-card-title"><a href="https://lrec.elra.info/lrec2026-main-079">New paper at LREC 2026</a></p>
-    <p class="news-card-desc">Automatic Segmentation of Classical Tibetan Texts — accepted to LREC 2026.</p>
+    <div class="news-card-date">{{ item.date }}</div>
+    <p class="news-card-title"><a href="{{ item.url }}">{{ item.title }}</a></p>
+    <p class="news-card-desc">{{ item.desc }}</p>
   </div>
-
-  <div class="news-card">
-    <div class="news-card-date">2025</div>
-    <p class="news-card-title"><a href="https://doi.org/10.1038/s44184-025-00159-1">Outstanding Paper Award</a></p>
-    <p class="news-card-desc">Our paper on LLM-based automated therapy was named an Outstanding Paper in npj Mental Health Research.</p>
-  </div>
-
-  <div class="news-card">
-    <div class="news-card-date">2025</div>
-    <p class="news-card-title"><a href="https://openreview.net/forum?id=fTVhWlzCuk">New paper at ICLR 2025</a></p>
-    <p class="news-card-desc">Preference Tree Optimization: Enhancing Goal-Oriented Dialogue with Look-Ahead Simulations — accepted to ICLR 2025.</p>
-  </div>
-
+{% endfor %}
 </div>
 
 <div class="news-see-all">

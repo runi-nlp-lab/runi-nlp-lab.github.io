@@ -91,10 +91,73 @@ permalink: /publications/
 <ul class="pub-list">
 
   <li>
+    <div class="pub-venue">EMNLP 2026</div>
+    <div class="pub-title">IdioLink: Retrieving Meaning Beyond Words Across Idiomatic and Literal Expressions</div>
+    <div class="pub-authors">Kai Golan Hashiloni, Daniel Fadlon, Lior Livyatan, Ofri Hefetz, Jiahuan Pei, Kfir Bar</div>
+    <div class="pub-links"><a href="https://aclanthology.org/2026.emnlp-main.1912/">Paper</a><a href="https://github.com/Intellexus-DSI/IdioLink">Code</a><a href="https://huggingface.co/datasets/Intellexus/IdioLink">Dataset</a></div>
+  </li>
+
+  <li>
+    <div class="pub-venue">EMNLP 2026 (Findings)</div>
+    <div class="pub-title">MoraLink: Bridging Morals and Narrative Fables for Retrieval</div>
+    <div class="pub-authors">Lior Livyatan, Kai Golan Hashiloni, Asif Amar, Roei Rahamim, Kfir Bar</div>
+    <div class="pub-links"><a href="https://aclanthology.org/2026.findings-emnlp.2106/">Paper</a><a href="https://github.com/Intellexus-DSI/MoraLink">Code</a><a href="https://huggingface.co/datasets/Intellexus/MoraLink">Dataset</a></div>
+  </li>
+
+  <li>
+    <div class="pub-venue">EMNLP 2026</div>
+    <div class="pub-title">IdioSteer: Controlling Figurative-vs-Literal Interpretation via Residual-Stream Activation Steering</div>
+    <div class="pub-authors">Bar Cohen, Kai Golan Hashiloni, Kfir Bar</div>
+    <div class="pub-links"><a href="https://aclanthology.org/2026.emnlp-main.1251/">Paper</a><a href="https://github.com/Intellexus-DSI/IdioSteer">Code</a></div>
+  </li>
+
+  <li>
+    <div class="pub-venue">EMNLP 2026</div>
+    <div class="pub-title">Saying vs. Seeing: Evaluating LLM Conflict Awareness and Resolution Preference under Latent Claim-Evidence Disagreement</div>
+    <div class="pub-authors">Daniel Hacker, Kfir Bar</div>
+    <div class="pub-links"><a href="https://aclanthology.org/2026.emnlp-main.1727/">Paper</a><a href="https://github.com/danielhk753/CLECK">Code</a></div>
+  </li>
+
+  <li>
+    <div class="pub-venue">INLG 2026</div>
+    <div class="pub-title">Do We Really Need So Many Tokens? The Performance-Efficiency Trade-off in Tibetan and Sanskrit</div>
+    <div class="pub-authors">Orr Meir Zwebner, Kai Golan Hashiloni, Guy Bilitski, Oded Hellman, Nir Marciano, Erez Yousfan, Shai Fine, Kfir Bar</div>
+    <div class="pub-links"><a href="https://github.com/Intellexus-DSI/do-we-really-need-so-many-tokens">Code</a></div>
+  </li>
+
+  <li>
+    <div class="pub-venue">AACL 2026</div>
+    <div class="pub-title">MuSe-MI: A Framework for Assessing Multi-Session Motivational Interviewing with AI-Generated Patients</div>
+    <div class="pub-authors">Topaz Freizeit, Moreah Zisquit, Kai Golan Hashiloni, Chaitze Tavens, Doron Friedman, Kfir Bar</div>
+    <div class="pub-links"><a href="https://github.com/TopazFreizeit/MuSe-MI">Code</a></div>
+  </li>
+
+  <li>
+    <div class="pub-venue">ACL 2026 (Findings)</div>
+    <div class="pub-title">ID10M-JAM: Stress-Testing Idiom Identification Under Challenging Context</div>
+    <div class="pub-authors">Kai Golan Hashiloni, Lior Livyatan, Ofri Hefetz, Alon Mannor, Bar Cohen, Kfir Bar</div>
+    <div class="pub-links"><a href="https://aclanthology.org/2026.findings-acl.1045/">Paper</a><a href="https://github.com/Intellexus-DSI/ID10M-JAM">Code</a><a href="https://huggingface.co/datasets/Intellexus/ID10M-JAM">Dataset</a></div>
+  </li>
+
+  <li>
+    <div class="pub-venue">NLLP 2026 (Workshop)</div>
+    <div class="pub-title">Imitation Thresholds: Quantifying Influence Propagation in Large Language Models</div>
+    <div class="pub-authors">Gil Semo, Dor Bernsohn, Lior Magen, Kfir Bar, Gila Hayat</div>
+    <div class="pub-links"><a href="https://aclanthology.org/2026.nllp-1.33/">Paper</a></div>
+  </li>
+
+  <li>
+    <div class="pub-venue">NLP4DH 2026 (Workshop)</div>
+    <div class="pub-title">Scaling Sentence Similarity for Classical Tibetan with Automatic Annotations</div>
+    <div class="pub-authors">Shay Cohen, Jingyi Yang, Gal Rabinovitz, Sonam Choden, Ofir Shtrosberg, Nicola Bajetta, Goody Ben Horin, Rebecca Sundén, Omri Drori, Sonam Jamtsho, Dorji Wangchuk, Kfir Bar, Orna Almogi, Shai Fine</div>
+    <div class="pub-links"><a href="https://aclanthology.org/2026.nlp4dh-1.15/">Paper</a><a href="https://github.com/Intellexus-DSI/sensim">Code</a><a href="https://huggingface.co/datasets/Intellexus/tibetan-sts-gold">Dataset</a></div>
+  </li>
+
+  <li>
     <div class="pub-venue">LREC 2026</div>
     <div class="pub-title">Automatic Segmentation of Classical Tibetan Texts into Autochthonous and Allochthonous Regions</div>
     <div class="pub-authors">Guy Bilitski, Lev Shechter, Sonam Jamtsho, Nir Marciano, Nicola Bajetta, Rebecca Sunden, Omri Drori, Kai Golan Hashiloni, Orr Zwebner, Asaf Shina, Orna Almogi, Dorji Wangchuk, Kfir Bar</div>
-    <div class="pub-links"><a href="https://lrec.elra.info/lrec2026-main-079">Paper</a></div>
+    <div class="pub-links"><a href="https://lrec.elra.info/lrec2026-main-079">Paper</a><a href="https://github.com/Intellexus-DSI/alloauto">Code</a></div>
   </li>
 
 </ul>
@@ -148,14 +211,14 @@ permalink: /publications/
     <div class="pub-venue">IJCNLP-AACL 2025</div>
     <div class="pub-title">Decode Like a Clinician: Enhancing LLM Fine-Tuning with Temporal Structured Data Representation</div>
     <div class="pub-authors">Daniel Fadlon, David Dov, Aviya Bennett, Daphna Heller-Miron, Gad Levy, Kfir Bar, Ahuva Weiss-Meilik</div>
-    <div class="pub-links"><a href="https://aclanthology.org/2025.ijcnlp-long.103/">Paper</a></div>
+    <div class="pub-links"><a href="https://aclanthology.org/2025.ijcnlp-long.103/">Paper</a><a href="https://github.com/DanielFadlon/decode-like-a-clinician">Code</a></div>
   </li>
 
   <li>
     <div class="pub-venue">INLG 2025</div>
     <div class="pub-title">Can LLMs Help Encoder Models Maintain Both High Accuracy and Consistency in Temporal Relation Classification?</div>
     <div class="pub-authors">Adiel Meir, Kfir Bar</div>
-    <div class="pub-links"><a href="https://aclanthology.org/2025.inlg-main.41/">Paper</a></div>
+    <div class="pub-links"><a href="https://aclanthology.org/2025.inlg-main.41/">Paper</a><a href="https://github.com/MatufA/timeline-extraction">Code</a></div>
   </li>
 
   <li>
@@ -169,7 +232,7 @@ permalink: /publications/
     <div class="pub-venue">IJCAI-LLM-Health 2025 (Workshop)</div>
     <div class="pub-title">Building Patient Journeys in Hebrew: A Language Model for Clinical Timeline Extraction</div>
     <div class="pub-authors">Kai Golan Hashiloni, Brenda Kasabe Nokai, Michal Shevach, Esthy Shemesh, Ronit Bartin, Anna Bergrin, Liran Harel, Nachum Dershowitz, Liat Nadai Arad, Kfir Bar</div>
-    <div class="pub-links"><a href="https://arxiv.org/html/2512.11502v1">Paper</a></div>
+    <div class="pub-links"><a href="https://arxiv.org/html/2512.11502v1">Paper</a><a href="https://github.com/golankai/HeMed-TRC">Code</a></div>
   </li>
 
   <li>
@@ -188,28 +251,28 @@ permalink: /publications/
     <div class="pub-venue">EACL 2024 (Findings)</div>
     <div class="pub-title">Code-Switching and Back-Transliteration Using a Bilingual Model</div>
     <div class="pub-authors">Daniel Mitelman, Nachum Dershowitz, Kfir Bar</div>
-    <div class="pub-links"><a href="https://aclanthology.org/2024.findings-eacl.102/">Paper</a></div>
+    <div class="pub-links"><a href="https://aclanthology.org/2024.findings-eacl.102/">Paper</a><a href="https://github.com/dwmitelman/ja_transliteration_tool">Code</a></div>
   </li>
 
   <li>
     <div class="pub-venue">LREC-COLING 2024</div>
     <div class="pub-title">JRC-Names-Retrieval: A Standardized Benchmark for Name Search</div>
     <div class="pub-authors">Philip Blair, Kfir Bar</div>
-    <div class="pub-links"><a href="https://aclanthology.org/2024.lrec-main.838/">Paper</a></div>
+    <div class="pub-links"><a href="https://aclanthology.org/2024.lrec-main.838/">Paper</a><a href="https://github.com/peblair/jrc-names-retrieval">Code</a></div>
   </li>
 
   <li>
     <div class="pub-venue">LREC-COLING 2024</div>
     <div class="pub-title">Motivational Interviewing Transcripts Annotated with Global Scores</div>
     <div class="pub-authors">Ben Cohen, Moreah Zisquit, Stav Yosef, Doron Friedman, Kfir Bar</div>
-    <div class="pub-links"><a href="https://aclanthology.org/2024.lrec-main.1017/">Paper</a></div>
+    <div class="pub-links"><a href="https://aclanthology.org/2024.lrec-main.1017/">Paper</a><a href="https://advanced-reality-lab.github.io/MI-TAGS/">Dataset</a></div>
   </li>
 
   <li>
     <div class="pub-venue">LREC-COLING 2024</div>
     <div class="pub-title">DiaSet: An Annotated Dataset of Arabic Conversations</div>
     <div class="pub-authors">Abraham Israeli, Aviv Naaman, Guy Maduel, Rawaa Makhoul, Dana Qaraeen, Amir Ejmail, Dina Lisnanskey, Julian Jubran, Shai Fine, Kfir Bar</div>
-    <div class="pub-links"><a href="https://aclanthology.org/2024.lrec-main.436/">Paper</a></div>
+    <div class="pub-links"><a href="https://aclanthology.org/2024.lrec-main.436/">Paper</a><a href="https://idc-dsi.github.io/DiaCorpus/">Dataset</a></div>
   </li>
 
   <li>

@@ -46,6 +46,16 @@ permalink: /team/
     <h4><a href="https://www.linkedin.com/in/orr-zwebner/">Orr Zwebner</a></h4>
   </div>
 
+  <div class="member-card-new">
+    <img src="/members_pics/guy_bilitski.jpeg" alt="Guy Bilitski" onerror="this.onerror=null; this.src='/assets/logo.png'">
+    <h4><a href="https://www.linkedin.com/in/guy-bilitski/">Guy Bilitski</a></h4>
+  </div>
+
+  <div class="member-card-new">
+    <img src="/members_pics/gal_astrach.jpeg" alt="Gal Astrach" onerror="this.onerror=null; this.src='/assets/logo.png'">
+    <h4><a href="https://www.linkedin.com/in/gal-astrach-866ba2202/">Gal Astrach</a></h4>
+  </div>
+
 </div>
 
 <h2 class="runi-section-title">Master's Students</h2>

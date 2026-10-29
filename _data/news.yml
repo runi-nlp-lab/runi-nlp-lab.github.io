@@ -1,0 +1,33 @@
+# All lab news, newest first. The home page shows only the first 9 (see index.md);
+# older items stay here as a hidden archive. Add new items at the TOP.
+# Fields: date, title, url, desc (desc may contain HTML links).
+
+- date: "Oct 2026"
+  title: "Four papers at EMNLP 2026"
+  url: "/publications/"
+  desc: 'Three papers in EMNLP 2026 main (<a href="https://aclanthology.org/2026.emnlp-main.1912/">IdioLink</a>, <a href="https://aclanthology.org/2026.emnlp-main.1251/">IdioSteer</a>, <a href="https://aclanthology.org/2026.emnlp-main.1727/">Saying vs. Seeing</a>) and one in Findings (<a href="https://aclanthology.org/2026.findings-emnlp.2106/">MoraLink</a>).'
+
+- date: "Jul 2026"
+  title: "New paper at ACL 2026 Findings"
+  url: "https://aclanthology.org/2026.findings-acl.1045/"
+  desc: "ID10M-JAM: Stress-Testing Idiom Identification Under Challenging Context."
+
+- date: "2026"
+  title: "Two workshop papers"
+  url: "/publications/"
+  desc: 'Scaling Sentence Similarity for Classical Tibetan (<a href="https://aclanthology.org/2026.nlp4dh-1.15/">NLP4DH 2026</a>) and Imitation Thresholds (<a href="https://aclanthology.org/2026.nllp-1.33/">NLLP 2026</a>).'
+
+- date: "2026"
+  title: "New paper at LREC 2026"
+  url: "https://lrec.elra.info/lrec2026-main-079"
+  desc: "Automatic Segmentation of Classical Tibetan Texts — accepted to LREC 2026."
+
+- date: "2025"
+  title: "Outstanding Paper Award"
+  url: "https://doi.org/10.1038/s44184-025-00159-1"
+  desc: "Our paper on LLM-based automated therapy was named an Outstanding Paper in npj Mental Health Research."
+
+- date: "2025"
+  title: "New paper at ICLR 2025"
+  url: "https://openreview.net/forum?id=fTVhWlzCuk"
+  desc: "Preference Tree Optimization: Enhancing Goal-Oriented Dialogue with Look-Ahead Simulations — accepted to ICLR 2025."
